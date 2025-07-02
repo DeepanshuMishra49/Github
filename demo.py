@@ -4,5 +4,5 @@ def main_function():
     return d  # undefined variable
 
 main_function()
-qwerty_function()
+
 test()
