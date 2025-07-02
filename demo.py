@@ -5,4 +5,5 @@ def main_function():
 
 main_function()
 
+qwerty_function()
 test()
